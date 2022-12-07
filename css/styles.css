@@ -1,0 +1,56 @@
+body {
+    background-color:#0088c3;
+}
+.nav-link {
+    color:#fff;
+}
+.navbar {
+    background-color:#0F1111;
+}
+#retreat {
+    font-style:italic;
+    font-size:larger;
+}
+.plan {
+    background-color: #0088c3;
+    color:#fff
+}
+hr {
+    background-color:#0088c3;
+}
+
+#carouselExampleCaptions {
+    height: 100%;
+    width:100%;
+    color:#0F1111;
+}
+.carasoul {
+    width:100%;
+    height:50%;
+}
+.host-highlight {
+    background-color:#0088c3;
+    text-align:center
+}
+.display-6 {
+    color:#fff
+}
+.host {
+    float:left;
+}
+.display-3 {
+    color:#fff;
+    text-align:center;
+}
+.carousel-slide {
+    width:50%;
+}
+.why {
+    width:25%;
+    height: 25%;
+    float:right;
+}
+.benefits {
+    text-align:left;
+    width:50%;
+}
